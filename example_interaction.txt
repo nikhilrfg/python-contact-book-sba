@@ -1,0 +1,95 @@
+===== Contact Book Menu =====
+1. Add New Contact
+2. View All Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice (1-5): 1
+Enter contact name: Alice
+Enter phone number: 5551234567
+Contact added successfully.
+
+===== Contact Book Menu =====
+1. Add New Contact
+2. View All Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice (1-5): 1
+Enter contact name: Bob
+Enter phone number: 5559876543
+Contact added successfully.
+
+===== Contact Book Menu =====
+1. Add New Contact
+2. View All Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice (1-5): 1
+Enter contact name: Alice
+Enter phone number: 5551111111
+A contact with that name already exists.
+
+===== Contact Book Menu =====
+1. Add New Contact
+2. View All Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice (1-5): 2
+
+--- All Contacts ---
+Name: Alice | Phone: 5551234567
+Name: Bob | Phone: 5559876543
+
+===== Contact Book Menu =====
+1. Add New Contact
+2. View All Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice (1-5): 3
+Enter a name to search: Alice
+Name: Alice | Phone: 5551234567
+
+===== Contact Book Menu =====
+1. Add New Contact
+2. View All Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice (1-5): 3
+Enter a name to search: David
+No matching contact found.
+
+===== Contact Book Menu =====
+1. Add New Contact
+2. View All Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice (1-5): 4
+Enter the name of the contact to delete: Bob
+Contact deleted successfully.
+
+===== Contact Book Menu =====
+1. Add New Contact
+2. View All Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice (1-5): 2
+
+--- All Contacts ---
+Name: Alice | Phone: 5551234567
+
+===== Contact Book Menu =====
+1. Add New Contact
+2. View All Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice (1-5): 5
+Thank you for using the Contact Book.
+Goodbye!
